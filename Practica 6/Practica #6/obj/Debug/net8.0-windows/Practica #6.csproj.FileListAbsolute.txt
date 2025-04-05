@@ -1,0 +1,34 @@
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\Practica__6.Form1.resources
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\Practica #6.csproj.GenerateResource.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\Practica #6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\Practica #6.AssemblyInfoInputs.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\Practica #6.AssemblyInfo.cs
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\Practica #6.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\bin\Debug\net8.0-windows\Practica #6.exe
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\bin\Debug\net8.0-windows\Practica #6.deps.json
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\bin\Debug\net8.0-windows\Practica #6.runtimeconfig.json
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\bin\Debug\net8.0-windows\Practica #6.dll
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\bin\Debug\net8.0-windows\Practica #6.pdb
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\Practica #6.dll
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\refint\Practica #6.dll
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\Practica #6.pdb
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\Practica #6.genruntimeconfig.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\ref\Practica #6.dll
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica #6\Practica #6\obj\Debug\net8.0-windows\Practica__6.Properties.Resources.resources
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\bin\Debug\net8.0-windows\Practica #6.exe
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\bin\Debug\net8.0-windows\Practica #6.deps.json
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\bin\Debug\net8.0-windows\Practica #6.runtimeconfig.json
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\bin\Debug\net8.0-windows\Practica #6.dll
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\bin\Debug\net8.0-windows\Practica #6.pdb
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\Practica__6.Form1.resources
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\Practica__6.Properties.Resources.resources
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\Practica #6.csproj.GenerateResource.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\Practica #6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\Practica #6.AssemblyInfoInputs.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\Practica #6.AssemblyInfo.cs
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\Practica #6.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\Practica #6.dll
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\refint\Practica #6.dll
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\Practica #6.pdb
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\Practica #6.genruntimeconfig.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 6\Practica #6\obj\Debug\net8.0-windows\ref\Practica #6.dll
