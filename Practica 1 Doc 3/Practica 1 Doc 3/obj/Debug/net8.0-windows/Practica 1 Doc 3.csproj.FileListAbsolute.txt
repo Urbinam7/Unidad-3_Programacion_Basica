@@ -1,0 +1,16 @@
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\obj\Debug\net8.0-windows\Practica_1_Doc_3.Form1.resources
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\obj\Debug\net8.0-windows\Practica 1 Doc 3.csproj.GenerateResource.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\obj\Debug\net8.0-windows\Practica 1 Doc 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\obj\Debug\net8.0-windows\Practica 1 Doc 3.AssemblyInfoInputs.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\obj\Debug\net8.0-windows\Practica 1 Doc 3.AssemblyInfo.cs
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\obj\Debug\net8.0-windows\Practica 1 Doc 3.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\bin\Debug\net8.0-windows\Practica 1 Doc 3.exe
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\bin\Debug\net8.0-windows\Practica 1 Doc 3.deps.json
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\bin\Debug\net8.0-windows\Practica 1 Doc 3.runtimeconfig.json
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\bin\Debug\net8.0-windows\Practica 1 Doc 3.dll
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\bin\Debug\net8.0-windows\Practica 1 Doc 3.pdb
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\obj\Debug\net8.0-windows\Practica 1 Doc 3.dll
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\obj\Debug\net8.0-windows\refint\Practica 1 Doc 3.dll
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\obj\Debug\net8.0-windows\Practica 1 Doc 3.pdb
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\obj\Debug\net8.0-windows\Practica 1 Doc 3.genruntimeconfig.cache
+C:\Users\Miguel Angel Urbina\Documents\Visual Studio 2022\Practica 1 Doc 3\Practica 1 Doc 3\obj\Debug\net8.0-windows\ref\Practica 1 Doc 3.dll
